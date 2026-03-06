@@ -6,6 +6,6 @@ Python ile geliştirilmiş, sistem tarafından rastgele seçilen ve harfleri kar
 
 Oyunu kendi bilgisayarınızda çalıştırmak için:
 
-1. Bu depoyu bilgisayarınıza klonlayın:
+1. Bu repoyu bilgisayarınıza klonlayın:
    ```bash
    git clone [https://github.com/KULLANICI_ADIN/kelime-tahmin-oyunu.git](https://github.com/KULLANICI_ADIN/kelime-tahmin-oyunu.git)
